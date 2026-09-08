@@ -1,0 +1,16 @@
+print ("hola mundo")
+print ("integrante 1:")
+print ("NOMBRE:Gabriela")
+print ("APELLIDO:Rivera")
+print ("EDAD:15")
+"Estudiante:True"
+print ("integrante 2:")
+print ("NOMBRE:David")
+print ("APELLIDO:Murillo")
+print ("EDAD:15")
+"Estudiante:True"
+print ("integrante 2:")
+print(3+6)
+print(34-9)
+print(8*6)
+print(32/6)
